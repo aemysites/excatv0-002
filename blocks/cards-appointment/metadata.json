@@ -1,0 +1,51 @@
+{
+  "variantName": "cards-appointment",
+  "baseBlock": "cards",
+  "version": "1.0.0",
+  "created": "2025-10-28T09:26:17.183Z",
+  "sourceContext": {
+    "originUrl": "https://nils-lars.com/",
+    "originPage": "homepage - breathwork studio",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "grey",
+    "density": "compact",
+    "purpose": "appointment-booking",
+    "imagePattern": "noimg",
+    "textLength": "medium"
+  },
+  "contentPattern": {
+    "structure": "heading + metadata + description + CTA",
+    "headingMaxLength": 80,
+    "descriptionMaxLength": 300,
+    "buttonCount": 1,
+    "imageCount": 0
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "appointment or booking sections",
+      "service offerings",
+      "product listings without images",
+      "text-heavy card layouts"
+    ],
+    "notSuitableFor": [
+      "image galleries",
+      "visual portfolios",
+      "multi-card grids with images"
+    ],
+    "similarVariants": []
+  },
+  "designTokens": {
+    "primaryColor": "#333333",
+    "backgroundColor": "#f5f5f5",
+    "borderColor": "#dadada",
+    "fontFamily": "system-ui",
+    "padding": "16px"
+  },
+  "usage": {
+    "pagesUsing": ["/index"],
+    "reuseCount": 1,
+    "lastUsed": "2025-10-28T09:26:17.183Z"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "variantName": "columns-text",
+  "baseBlock": "columns",
+  "version": "1.0.0",
+  "created": "2025-10-28T09:26:17.218Z",
+  "sourceContext": {
+    "originUrl": "https://nils-lars.com/",
+    "originPage": "homepage - breathwork studio",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "spacious",
+    "purpose": "content-comparison",
+    "imagePattern": "noimg",
+    "textLength": "long"
+  },
+  "contentPattern": {
+    "structure": "2 columns with text paragraphs and lists",
+    "headingMaxLength": 60,
+    "descriptionMaxLength": 500,
+    "buttonCount": 0,
+    "imageCount": 0
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "side-by-side text content",
+      "FAQ or Q&A layouts",
+      "feature comparisons",
+      "text-heavy informational sections"
+    ],
+    "notSuitableFor": [
+      "image galleries",
+      "single column layouts",
+      "sections requiring more than 2 columns"
+    ],
+    "similarVariants": []
+  },
+  "designTokens": {
+    "primaryColor": "#333333",
+    "backgroundColor": "#ffffff",
+    "fontFamily": "system-ui",
+    "columnGap": "24px"
+  },
+  "usage": {
+    "pagesUsing": ["/index"],
+    "reuseCount": 1,
+    "lastUsed": "2025-10-28T09:26:17.218Z"
+  }
+}
